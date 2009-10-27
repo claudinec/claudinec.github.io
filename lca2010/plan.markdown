@@ -81,6 +81,3 @@ What are the challenges in digital history, from social and technical perspectiv
 
 * local history
 * role of libraries
-
-
-
