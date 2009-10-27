@@ -1,6 +1,7 @@
-=================================================================
-Unlocking the ivory tower: or, Adventures in historical computing
-=================================================================
+---
+layout: default
+title: Unlocking the ivory tower: or, Adventures in historical computing
+---
 
 Vision: opening up
 
