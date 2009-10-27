@@ -4,5 +4,5 @@ title: Github
 ---
 
 So many ways to document projects on Github: ``doc/`` directories, wiki,
-pages... What should I use?
+`pages <http://github.com/blog/272-github-pages>`_... What should I use?
 
