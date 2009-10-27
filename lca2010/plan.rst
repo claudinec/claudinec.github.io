@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unlocking the ivory tower: or, Adventures in historical computing
+title: Unlocking the ivory tower, or, Adventures in historical computing
 ---
 
 Vision: opening up
