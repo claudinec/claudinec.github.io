@@ -3,5 +3,5 @@ layout: default
 title: linux.conf.au 2010
 ---
 
-`plan for presentation <plan.html>`_
+[plan.html](plan for presentation)
 
