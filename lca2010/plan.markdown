@@ -3,22 +3,38 @@ layout: default
 title: Unlocking the ivory tower, or, Adventures in historical computing
 ---
 
+## The Vision
+
 Vision: opening up
 
 * access to data
 * collaborative learning
 * collaborative interpretation, writing, creating
 
+## The Adventurers
+
+### The builder
+
 Building: public system (user friendly?), secure private systems
+
+### The interpreter
 
 Interpreting between disciplines and skill sets
 
+### The teacher
+
 Teaching 'the public': interest groups outside academia
+
+### The chronicler
 
 Chronicling/recording (resource for other projects)
 
 * methods, approaches
 * challenges
+
+## My challenge
+
+I have too many hats!
 
 Questions
 =========
@@ -68,4 +84,6 @@ WikiShepp
 
 * local history
 * role of libraries
+
+
 
