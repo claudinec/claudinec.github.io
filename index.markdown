@@ -5,6 +5,10 @@ title: About
 
 I am a research assistant at the University of Melbourne, working on a number of historical projects including [Founders and Survivors: Australian Lifecourses in Historical Context](http://www.foundersandsurvivors.org/).
 
+Upcoming presentations:
+
+* [Unlocking the ivory tower](lca2010/), LCA2010
+
 Recent presentations:
 
 * [Public
