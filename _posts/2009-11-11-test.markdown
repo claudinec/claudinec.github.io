@@ -1,0 +1,9 @@
+---
+layout: blog
+title: Test post
+---
+
+This is a test!  Hello, World!
+
+How boring can I be?
+
