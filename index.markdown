@@ -32,10 +32,10 @@ I would love to hear from anyone who can tell me more about [my surname or famil
 
 I can also be found on <a  href="http://identi.ca/claudine/all">identi.ca</a>, <a href="http://www.flickr.com/photos/claudine/">Flickr</a>, <a href="http://www.linkedin.com/in/claudinec">LinkedIn</a>, <a href="http://www.dopplr.com/traveller/claudine/public">Dopplr</a> and <a href="http://www.facebook.com/claudine.chionh">Facebook</a>.
 
-----
+## Blog posts
 
 {% for post in site.posts limit:5 %}
-  - <a href="{{ post.url }}">{{ post.title }}</a>
-	  *Posted on {{ post.date | date_to_long_string }}.*
+  - <a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>
+	  *posted on {{ post.date | date_to_long_string }}.*
 {% endfor %}
 
