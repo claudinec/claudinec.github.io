@@ -35,8 +35,7 @@ I can also be found on <a  href="http://identi.ca/claudine/all">identi.ca</a>, <
 ----
 
 {% for post in site.posts limit:5 %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.content }}
-	  <em>Posted on {{ post.date | date_to_long_string }}.</em>
+  - <a href="{{ post.url }}">{{ post.title }}</a>
+	  *Posted on {{ post.date | date_to_long_string }}.*
 {% endfor %}
 
