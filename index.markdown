@@ -31,3 +31,8 @@ I am Anglican, and in my 'other life' I study theology at the [United Faculty of
 I would love to hear from anyone who can tell me more about [my surname or family history](famhist.html).
 
 I can also be found on <a  href="http://identi.ca/claudine/all">identi.ca</a>, <a href="http://www.flickr.com/photos/claudine/">Flickr</a>, <a href="http://www.linkedin.com/in/claudinec">LinkedIn</a>, <a href="http://www.dopplr.com/traveller/claudine/public">Dopplr</a> and <a href="http://www.facebook.com/claudine.chionh">Facebook</a>.
+
+Blog posts
+
+{{ site.posts }}
+
