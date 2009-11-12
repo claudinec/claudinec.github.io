@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: disqus
 title: Test post
 ---
 
