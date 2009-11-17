@@ -36,7 +36,7 @@ I can also be found on <a  href="http://identi.ca/claudine/all">identi.ca</a>, <
 
 {% for post in site.posts limit:5 %}
   - <a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>
-	  *posted on {{ post.date | date_to_long_string }}.*
+	  *posted on {{ post.date | date_to_long_string }}*
 {% endfor %}
 
 [atom feed](http://claudine.github.com/atom.xml)
