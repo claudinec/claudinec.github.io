@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Claudine Chionh</title>
+ <title>Claudine Chionh's Github Pages</title>
 <!-- <link rel="hub" href="http://pubsubhubbub.appspot.com/" /> -->
  <link href="http://claudine.github.com/atom.xml" rel="self"/>
  <link href="http://claudine.github.com/"/>
