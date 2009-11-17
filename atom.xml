@@ -5,7 +5,6 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Claudine Chionh's Github Pages</title>
-<!-- <link rel="hub" href="http://pubsubhubbub.appspot.com/" /> -->
  <link href="http://claudine.github.com/atom.xml" rel="self"/>
  <link href="http://claudine.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>

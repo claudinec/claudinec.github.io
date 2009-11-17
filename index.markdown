@@ -39,3 +39,4 @@ I can also be found on <a  href="http://identi.ca/claudine/all">identi.ca</a>, <
 	  *posted on {{ post.date | date_to_long_string }}.*
 {% endfor %}
 
+[atom feed](http://claudine.github.com/atom.xml)
