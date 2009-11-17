@@ -35,7 +35,7 @@ I can also be found on <a  href="http://identi.ca/claudine/all">identi.ca</a>, <
 ## Blog posts
 
 {% for post in site.posts limit:5 %}
-  * [{{ post.title }}]({{ post.url }}#disqus_thread)
+  * [{{ post.title }}]({{ post.url }})
 	  *posted on {{ post.date | date_to_long_string }}*
 {% endfor %}
 
