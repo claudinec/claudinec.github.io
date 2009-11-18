@@ -1,0 +1,10 @@
+---
+layout: disqus
+title: New Zealand
+---
+
+After that [long-ish post](http://claudine.github.com/2009/11/17/update.html), here's a short one (more than 140 characters, though).
+
+I'm going to [linux.conf.au](http://www.lca2010.org.nz/) in Wellington in January, and [speaking](http://www.lca2010.org.nz/programme/schedule/view_talk/50163?day=wednesday) about the Founders and Survivors project and humanities computing. I presented a few talks on this topic at mini-conferences at LCA 2009, and was invited to consider submitting to the main conference in 2010.
+
+I have a [summary](http://claudine.github.com/lca2010/) of LCA2010 plans and also some very tentative [travel plans](http://claudine.github.com/lca2010/travel.html). This will be my first time in New Zealand. I had ambitions for a Grand Tour of New Zealand but time and resources are limited, so I will probably stay in Wellington until the end of the conference, then spend a couple of days in Christchurch. Comments and suggestions are welcome.
