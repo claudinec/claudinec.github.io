@@ -9,15 +9,15 @@ The press release follows. NZ$67.50 is bananas for Australians!
 
 ----
 
-DrupalSouth Wellington 2010 is the New Zealand Drupal event. It will be NZ's largest ever gathering of Drupal developers, designers, contributers and business folk. DrupalSouth Wellington will be on Saturday and Sunday 23-24 January — just after Linux.conf.au Wellington. http://wellington2010.drupalsouth.net.nz/
+DrupalSouth Wellington 2010 is the New Zealand Drupal event. It will be NZ's largest ever gathering of Drupal developers, designers, contributers and business folk. DrupalSouth Wellington will be on Saturday and Sunday 23-24 January -- just after Linux.conf.au Wellington. http://wellington2010.drupalsouth.net.nz/
 
 DrupalSouth features some great speakers and attendees from NZ and abroad, including
 
     * Angela Byron (webchick); Drupal 7 core committer, Drupal community nurturer, and co-author of Using Drupal
     * Emma Jane Hogbin (emmajane); co-author of Front End Drupal, uber-documenter, Drupal evangelist/speaker and community all-rounder
-    * Liz Henry (lizhenry), BlogHer.com developer — the largest community for women bloggers, built on Drupal since 2006
+    * Liz Henry (lizhenry), BlogHer.com developer -- the largest community for women bloggers, built on Drupal since 2006
 
-Registration costs just $67.50 NZD including GST ($60 for non-NZ businesses) and includes lunch, coffee and tea on both days – not to mention access to a great line up of speakers and sessions on awesome topics. The full schedule is coming soon!  Register here; http://wellington2010.drupalsouth.net.nz/conference
+Registration costs just $67.50 NZD including GST ($60 for non-NZ businesses) and includes lunch, coffee and tea on both days -- not to mention access to a great line up of speakers and sessions on awesome topics. The full schedule is coming soon!  Register here; http://wellington2010.drupalsouth.net.nz/conference
 
 Such a low price for such a high-quality event has only been made possible thanks to our generous sponsors (http://wellington2010.drupalsouth.net.nz/sponsors), including;
 
