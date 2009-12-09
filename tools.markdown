@@ -17,6 +17,7 @@ I'm starting to acquire and move between a few different computers, so here I am
 
 * [Cyberduck](http://cyberduck.ch/) (S)FTP client
 * [Git](http://git-scm.com/) version control -- [OS X installer](http://code.google.com/p/git-osx-installer/)
+* [Perl](http://www.perl.org/) comes with OS X and I keep modules up-to-date using [CPAN](http://www.cpan.org/)
 * [MacVim](http://code.google.com/p/macvim/) the editor
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) another editor (Mac-only)
 * [Aquamacs](http://aquamacs.org/) for when I am nostalgic for Emacs
