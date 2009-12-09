@@ -2,3 +2,5 @@
 layout: disqus
 title: my software toolkit
 ---
+
+I have put up a [page](/tools.html) on the Mac software I use. Linux details might come later.
