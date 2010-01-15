@@ -5,7 +5,7 @@ title: Blog
 
 <ul>
 {% for post in site.posts %}
-  <li> [{{ post.title }}]({{ post.url }})
+  <li> <a href="{{ post.url }}">{{ post.title }}</a>
 	  <em>posted on {{ post.date | date_to_long_string }}</em>
 {% endfor %}
 </ul>
