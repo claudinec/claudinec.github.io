@@ -3,9 +3,7 @@ layout: disqus
 title: Wellington, New Zealand -- first impressions
 ---
 
-It's wet and windy here. Wellington in January is like Melbourne in August. Even [locals are complaining](http://www.stuff.co.nz/national/3234694/Bad-weather-good-business-for-some) now. Still, I would take a wet, windy summer over 40º heat, any day.
-
-Wellington is compact and the population is small, but it still feels like a vibrant, active city. A vibrant, active city that I can mostly cover on foot. I think I could get used to this.
+It's wet and windy here. Wellington in January is like Melbourne in August. Even [locals are complaining](http://www.stuff.co.nz/national/3234694/Bad-weather-good-business-for-some) now. Still, I would take a wet, windy summer over 40º heat, any day. Wellington is compact and the population is small, but it still feels like a vibrant, active city. A vibrant, active city that I can mostly cover on foot. I think I could get used to this. This is my first visit to New Zealand, after 26 years living in the big country next door. I never got round to crossing the Tasman because 'New Zealand is just there and it's not about to go away' (just like Uluru and other Australian landmarks). It's about time I made the effort.
 
 I visited the [Museum of New Zealand, _Te Papa Tongarewa_](http://www.tepapa.govt.nz/) today, and choked up a bit at the [exhibit](http://www.tepapa.govt.nz/WhatsOn/exhibitions/Pages/SignsofaNation.aspx) on the [Treaty of Waitangi](http://www.waitangi-tribunal.govt.nz/treaty/). The context and the history are different, but I feel angry and ashamed that a treaty like this is still impossible in Australia.
 
