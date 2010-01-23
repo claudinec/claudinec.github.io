@@ -1,3 +1,7 @@
+do we still need 'feminism'?
+
+what does that mean?
+
 also: need for more inclusion
 
 women in FOSS, women in the church?
