@@ -7,6 +7,8 @@ title: DrupalSouth 2010 debrief, phase one
 
 [Drupal](http://drupal.org/) is a content management framework used to build websites ranging from small individual sites to some of the [largest in the world](http://drupal.org/cases). Like Linux and the kind of project that gets featured at linux.conf.au, Drupal is [open source software](http://en.wikipedia.org/wiki/Open-source_software) and is motivated by the same principles of grassroots software development and community support. DrupalSouth piggybacked on linux.conf.au so that some of the international superstars of Drupal development could attend both events.
 
+[backlash on twitter](http://twitter.com/Djelibeybi/status/8096611839)
+
 smaller, more focused than lca...
 
 ejh
