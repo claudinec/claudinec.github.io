@@ -17,22 +17,4 @@ On Saturday night some of us adjourned to the hotel for an impromptu hackfest wh
 
 At every previous LCA that I have attended, I have grumbled about how isolated I feel within the free software movement. Preparing my talk and going to DrupalSouth has given me an insight that is painfully, stupidly obvious. I feel isolated because I _am_ isolated. For most of the year, I work, study and socialise with historians, public health scholars, theologians and church geeks (and assorted other groups, such as librarians). I attend [my local Linux users' group](http://luv.asn.au/) and lurk on [LinuxChix](http://www.linuxchix.org/) and other online places where free software geeks meet, but I have tended to find these groups intimidating and I didn't know whether I could belong in any meaningful way. At LCA this year I have finally reached a level of technical competence and familiarity within the Melbourne Linux community that I didn't feel out of depth. At DrupalSouth, and with some of the Drupal people at LCA, I felt I was part of a community that bonded over curry/beer/gelato and late-night hackfests... because [face-to-face contact still matters](http://identi.ca/notice/19716635).
 
-
-
-ejh
-
-passion
-
-volunteering
-
-I do stuff that people find interesting.
-
-Focus on Drupal ... {stuff} for now.
-
-What else can I do?
-
-Teaching/telling people in higher ed. about Drupal, FOSS...
-
-
-
 [^ejh]: Knitting and [square dancing](http://www.slideshare.net/emmajane/learning-php-for-drupal-theming-dc-chicago-2009)? This _is_ a community of many talents and interests!
