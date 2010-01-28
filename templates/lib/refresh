@@ -1,4 +1,0 @@
-<meta http-equiv="refresh" content="1;url=[% newurl %]" />
-
-<p>Redirecting to <a href="[% newurl %]">new location</a>...</p>
-
