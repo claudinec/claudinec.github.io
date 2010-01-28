@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+<title>[% template.name %]</title>
+<LINK rel="stylesheet" href="http://chionh.org/style.css" type="text/css">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+</head>
+
+<body>
+
+[% USE Markdown -%]
+[% FILTER markdown %]
+[% content %]
+----
+
+[% END %]
+
+[% USE Date %]
+[% USE date(format = "%d %B %Y") %]
+<p class="small">[% date.format(template.modtime) %] | <a href="mailto:claudine@chionh.org">mail</a></p>
+
+</body>
+
+</html>
