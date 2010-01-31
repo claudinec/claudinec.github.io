@@ -15,17 +15,17 @@ For me, the running highlight of LCA2010 (including the Linuxchix miniconference
 
 ADD LINKS
 
-I was most inspired by meeting and hearing from: Liz Henry, who has been fighting this fight for years, and still maintains the rage as well as radiating joy and compassion; and Angela Byron (webchick), whose enthusiasm for Drupal is infectious (which is just as well, as she is coordinating the upcoming Drupal 7 release). It was also great to meet (even if briefly) other women such as Emma Jane Hogbin and Selena Deckelmann, and to reconnect with other Australian Linuxchix.
+I was most inspired by meeting and hearing from: Liz Henry, who has been fighting this fight for years, and still maintains the rage while also radiating joy and compassion; and Angela Byron (webchick), whose enthusiasm for Drupal is infectious (which is just as well, as she is coordinating the upcoming Drupal 7 release). It was also great to meet (even if briefly) other women such as Emma Jane Hogbin and Selena Deckelmann, and to reconnect with other Australian Linuxchix.
 
 Particular highlights of the programme were:[^links]
 
-* Liz's talks on __Code of our own__ (i.e. why hacking is still a feminist issue) and on assistive technology (which brought home to me that hacking is ultimately not really about computers, it's about finding resourceful solutions to problems of any kind).
+* Liz's talks on _Code of our own_ (i.e. why hacking is still a feminist issue) and on assistive technology (which brought home to me that hacking is ultimately not really about computers, it's about finding resourceful solutions to problems of any kind).
 
 * Seeing Angela demonstrate Drupal 7 twice, once in an LCA tutorial and again at DrupalSouth.
 
 * Emma Jane Hogbin's talk on version control, followed by Sara Falamaki's on happy hackers, underscored how much of a difference one's tools and working environment can make to one's creativity and efficiency. For the seven-odd years before I moved to my current job, I was forced to develop database and statistical analysis systems with proprietary software mandated by my employers. It has made a huge difference to be able to research and use the best tools for my job. A happy hacker can choose her own tools.
 
-I went to other good talks, including Tim McNamara's timely presentation on the Sahana disaster management system being used in Haiti, and Paul Fenwick's geek standup comedy routine on the world's worst inventions.
+Other good talks included Tim McNamara's timely presentation on the Sahana disaster management system being used in Haiti, and Paul Fenwick's geek standup comedy routine on the world's worst inventions.
 
 Ohter people's highlights that I missed include:
 
