@@ -33,7 +33,7 @@ Ohter people's highlights that I missed include:
 
 * The hackfest following the Linuxchix miniconf, to work on the <http://geekspeakr.com/> website. On Monday I was still hesitant about LCA burnout and was pacing myself, so I had a quiet dinner with a friend and an early night. I think I missed a great hackfest and might even have been able to contribute something, but five late nights in a row would have had other negative consequences.
 
-* I managed to miss *two* talks on documentation -- by Lana Brindley and Emma Jane Hogbin -- due to schedule clashes. The Friday after-lunch slot was particuarly galling as Emma Jane (documentation) was scheduled against Liz (assistive tech) and I was not the only who was annoyed about not being able to get to both. On the other hand, the fact that there were so many women giving such a diverse range of talks is something to celebrate.
+* I managed to miss *two* talks on documentation -- by Lana Brindley and Emma Jane Hogbin -- due to schedule clashes. The Friday after-lunch slot was particuarly galling as Emma Jane (documentation) was scheduled against Liz (assistive tech) and I was not the only one who was annoyed about not being able to get to both. On the other hand, the fact that there were so many women giving such a diverse range of talks is something to celebrate.
 
 [^prog]: One followed immediately after the other, and quite a few of the speakers and attendees at DrupalSouth had been to LCA, so I'm mentally conflating the two.
 
