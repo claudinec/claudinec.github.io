@@ -33,7 +33,7 @@ Ohter people's highlights that I missed include:
 
 * I managed to miss *two* talks on documentation -- by Lana Brindley and Emma Jane Hogbin -- due to schedule clashes. The Friday after-lunch slot was particuarly galling as Emma Jane (documentation) was scheduled against Liz (assistive tech) and I was not the only one who was annoyed about not being able to get to both. On the other hand, the fact that there were so many women giving such a diverse range of talks is something to celebrate.
 
-The story continues on the Geek Feminism [wiki](http://geekfeminism.wikia.com/) and [blog](http://geekfeminism.org/).
+Our story continues on the Geek Feminism [wiki](http://geekfeminism.wikia.com/) and [blog](http://geekfeminism.org/).
 
 [^prog]: One followed immediately after the other, and quite a few of the speakers and attendees at DrupalSouth had been to LCA, so I'm mentally conflating the two.
 
