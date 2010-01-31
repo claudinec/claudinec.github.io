@@ -11,9 +11,7 @@ I've been telling my academic and church friends and acquaintances that I attend
 
 (Church geeks can probably understand this... it's another area where both 'professionals' and 'amateurs' participate in intense, demanding, emotionally draining and rewarding activities that may not seem to bring any financial or material gain, and are difficult to explain or justify to people outside the community.)
 
-For me, the running highlight of LCA2010 (including the Linuxchix miniconference) and DrupalSouth[^prog] was meeting, hearing, socialising and hacking with some of the women who have been contributing to the development of Linux and free software over the last ten years, _and_ raising a fuss about the place of women in this community. I first attended LCA in 2007, partly because, for the first time, a Linuxchix miniconference was part of the programme. That year, a psychological barrier was broken: 10% of attendees were women. That proportion has been steadily increasing, and an unofficial estimate for 2010 is 15% female attendance. (It was also a noticeably child- and family-friendly event.) This is still an unjustifiably male-dominated field, but to me it felt that we were no longer a _painful_ minority. We still need to work for greater equality and inclusion, but we also have many successes to celebrate.
-
-ADD LINKS
+For me, the running highlight of LCA2010 (including the Linuxchix miniconference) and DrupalSouth[^prog] was meeting, hearing, socialising and hacking[^hack] with some of the women who have been contributing to the development of Linux and free software over the last ten years, _and_ raising a fuss about the place of women in this community. I first attended LCA in 2007, partly because, for the first time, a Linuxchix miniconference was part of the programme. That year, a psychological barrier was broken: 10% of attendees were women. That proportion has been steadily increasing, and an unofficial estimate for 2010 is 15% female attendance. (It was also a noticeably child- and family-friendly event.) This is still an unjustifiably male-dominated field, but to me it felt that we were no longer a _painful_ minority. We still need to work for greater equality and inclusion, but we also have many successes to celebrate.
 
 I was most inspired by meeting and hearing from: Liz Henry, who has been fighting this fight for years, and still maintains the rage while also radiating joy and compassion; and Angela Byron (webchick), whose enthusiasm for Drupal is infectious (which is just as well, as she is coordinating the upcoming Drupal 7 release). It was also great to meet (even if briefly) other women such as Emma Jane Hogbin and Selena Deckelmann, and to reconnect with other Australian Linuxchix.
 
@@ -35,8 +33,10 @@ Ohter people's highlights that I missed include:
 
 * I managed to miss *two* talks on documentation -- by Lana Brindley and Emma Jane Hogbin -- due to schedule clashes. The Friday after-lunch slot was particuarly galling as Emma Jane (documentation) was scheduled against Liz (assistive tech) and I was not the only one who was annoyed about not being able to get to both. On the other hand, the fact that there were so many women giving such a diverse range of talks is something to celebrate.
 
+The story continues on the Geek Feminism [wiki](http://geekfeminism.wikia.com/) and [blog](http://geekfeminism.org/).
+
 [^prog]: One followed immediately after the other, and quite a few of the speakers and attendees at DrupalSouth had been to LCA, so I'm mentally conflating the two.
 
-ADD LINKS
+[^hack]: That is, 'doing interesting and creative things with technology', not 'breaking into other people's computers'.
 
-[^links]: It's late and I haven't put up links to individual abstracts. You can find them on the programmes for the [Linuxchix miniconf](), [LCA2010 main programme]() and [DrupalSouth]().
+[^links]: It's late and I haven't put up links to individual abstracts. You can find them on the programmes for the [Linuxchix miniconf](http://haecksen.org.nz/node/272), [LCA2010 main programme](http://www.lca2010.org.nz/programme/schedule) and [DrupalSouth](http://wellington2010.drupalsouth.net.nz/schedule).
