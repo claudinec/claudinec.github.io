@@ -8,5 +8,6 @@ title: Drupal Table Wizard and Migrate modules
 Gotchas:
 
 * add view for table
+* need Migrate Extras for CCK
 
 haven't tried using separate database
