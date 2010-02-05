@@ -5,9 +5,14 @@ title: Drupal Table Wizard and Migrate modules
 
 [webchick's tutorial](http://www.lullabot.com/articles/drupal-data-imports-migrate-and-table-wizard)
 
-Gotchas:
+Process:
 
-* add view for table
-* need Migrate Extras for CCK
+* create content type; need [Automatic node titles](http://drupal.org/project/auto_nodetitle) to create composite title
+* Access/Excel (!) -> CSV -> MySQL (don't mess with the data, just check field types)
+* copy MySQL table to Drupal database
+* Table Wizard to expose foreign table to Views
+* Migrate: map foreign table to content type (need Migrate Extras for CCK)
 
-haven't tried using separate database
+TODO (another post?):
+
+* references between index records and public submissions
