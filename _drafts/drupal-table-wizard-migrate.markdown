@@ -11,7 +11,24 @@ Process:
 * Access/Excel (!) -> CSV -> MySQL (don't mess with the data, just check field types)
 * copy MySQL table to Drupal database
 * Table Wizard to expose foreign table to Views
-* Migrate: map foreign table to content type (need Migrate Extras for CCK)
+* Migrate: map foreign table to content type (need Migrate Extras for CCK) check 'Node: Published'
+
+
+Access to text to MySQL
+
+Create content type
+
+Rule to change title after creation
+
+Table Wizard
+
+Migrate to map table to content
+
+Published status
+
+Drush
+
+
 
 TODO (another post?):
 
