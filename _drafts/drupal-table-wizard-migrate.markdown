@@ -7,39 +7,26 @@ One of the goals of the [Founders and Survivors](http://www.foundersandsurvivors
 
 Biographies have been submitted by members of the public through our Drupal website as a custom content type using the [CCK](http://drupal.org/project/cck) module. The other data exists in paper records which are being transcribed and in some cases photographed. Transcriptions have been entered in a variety of desktop-oriented data collection systems, including Filemaker Pro, Microsoft Access and Microsoft Excel. My goal is to make this data available to other researchers and members of the public in open formats and through the web. As I have got to know Drupal better, I have come to see that it is a powerful way of representing strucutred data as well as free-form documents on the web, and it can also handle the privacy and access control we need to prevent unethical use of data.
 
-The Archives of Tasmania have an online [Index to Tasmanian Convicts](http://portal.archives.tas.gov.au/menu.aspx?search=11) and I was given a copy of this data in Microsoft Access. This index will form the basis of the entire Founders and Survivors database, so that a record of a convict in the index will contain links to all of the other data we have on that individual. After exporting the index data to a comma-separated text file (so that I don't have to touch Access again) I hacked together a Perl script to extract data from this file and insert it directly into the MySQL database used by Drupal. It *looked* as if the script did what I wanted it to do, but I wasn't confident about it and didn't run it on our production database before I left for LCA2010 and DrupalSouth, where Angie Byron gave me [a better solution](http://www.lullabot.com/articles/drupal-data-imports-migrate-and-table-wizard). (Why yes, I *do* lose years off my life every time I attempt a bulk migration!)
+The Archives of Tasmania have an online [Index to Tasmanian Convicts](http://portal.archives.tas.gov.au/menu.aspx?search=11) and I was given a copy of this data in Microsoft Access. This index will form the basis of the entire Founders and Survivors database, so that a record of a convict in the index will contain links to all of the other data we have on that individual. After exporting the index data to a comma-separated text file (so that I don't have to touch Access again) I hacked together a Perl script to extract data from this file and insert it directly into the node and content tables in Drupal's database. It *looked* as if the script did what I wanted it to do, but I wasn't confident about it and didn't run it on our production database before I left for LCA2010 and DrupalSouth, where Angie Byron gave me [a better solution](http://www.lullabot.com/articles/drupal-data-imports-migrate-and-table-wizard). (Why yes, I *do* lose years off my life every time I attempt a bulk migration!)
 
 Angie's article is a good tutorial on using the Table Wizard and Migrate modules generic data migration process. This is the full process I needed to set up migration for the Archive index (which is still underway -- 80,000 records don't appear instantaneously).
 
+First I also created a content type in Drupal with the same data structure. Every node must have a title, and I wanted the index records to have a composite title containing the convict's index number and name and the name of the ship on which he or she arrived in Van Diemen's Land. My first solution was to use the [Automatic Nodetitles](http://drupal.org/project/auto_nodetitle) module which did just this for manually entered records. However, after running the migration process on a sample, I found that the whole batch of migrated records would have an automatic title made up of components of the *first* record in the batch. (I should probably report this as an issue and even try to fix it, but I needed to find a more immediate solution.) Instead I used the [**Rules**](http://drupal.org/project/rules) module (which, like Automatic Nodetitles, depends on the [Token](http://drupal.org/project/token) module) to update the title of each node after is created.
 
+![rule to update titles](http://img.skitch.com/20100217-qk9q9ranuxr1e5stkhtbj6jhxk.jpg)
 
-Process:
+[**Table Wizard**](http://drupal.org/project/tw) makes any database table available to Drupal [Views](http://drupal.org/project/views). It looks for tables in the default Drupal database (or another database) so I dumped the contents of the CSV file into its own table in the database. The Table Wizard administration page `admin/content/tw` lists tables managed by Table Wizard and other tables in the database that can be added to Table Wizard. Each exposed table has an `analysis` link which provides information about each field.
 
-* create content type; need [Automatic node titles](http://drupal.org/project/auto_nodetitle) to create composite title
-* Access/Excel (!) -> CSV -> MySQL (don't mess with the data, just check field types)
-* copy MySQL table to Drupal database
-* Table Wizard to expose foreign table to Views
-* Migrate: map foreign table to content type (need Migrate Extras for CCK) check 'Node: Published'
+![table analysis](http://img.skitch.com/20100217-q5fi5t93y2nnr6p6jr3ks4isae.jpg)
 
+If you only want to view data in an external table, Table Wizard will suffice. The [**Migrate**](http://drupal.org/project/migrate) module is used to map the structure of the external table to data structures within Drupal and import the data into Drupal so that it can be searched, viewed and modified like any other Drupal node. The [**Migrate Extras**](http://drupal.org/project/migrate_extras) module is needed to migrate to fields created in CCK. Under 'Add a content set' on the Migrate dashboard `admin/content/migrate`, I selected the index record type as the destination and the Table Wizard table as the source. Clicking on this content set allows me to map the source to destination fields and change other migration settings.
 
-Access to text to MySQL
+![content set](http://img.skitch.com/20100217-mr3kkyq8gqmg4wumnqw844a387.jpg)
 
-Create content type
+There are two ways to execute the migration: from the Migrate dashboard, or using [`drush`](http://drupal.org/project/drush), the Drupal Shell. From the dashboard I can import samples of data or clear all imported data; this is useful for testing the import settings.
 
-Rule to change title after creation
+![migrate dashboard](http://img.skitch.com/20100217-t937n4rq5tqx1iqqxhdqne5gn.jpg)
 
-Table Wizard
+By default, new nodes imported by Migrate are not published. After testing the migration process on small samples, I cleared the imported nodes, went back to edit the content set and set the default value for `Node: Published` to 1 so that imported nodes are published.
 
-Migrate to map table to content
-
-Published status
-
-Drush
-
-
-I have a working procedure. Actually importing the data is the time-consuming part now. (`drush migrate` as a cron job)
-
-
-TODO (another post?):
-
-* references between index records and public submissions
+The index data is now being migrated at a rate of about 12 records per minute. It runs out of memory after (usually) 136 records and attempts to start a new batch, but terminates instead. (These issues require more investigation on my part. It seems to be related to `drush` permissions.) I am running `drush migrate` from a cron job so that the migration process can continue unattended. At this rate the index might all be online in a week.
