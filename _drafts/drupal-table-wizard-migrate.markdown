@@ -1,3 +1,5 @@
+-*- markdown -*-
+
 ---
 layout: disqus
 title: Drupal Table Wizard and Migrate modules
@@ -12,6 +14,7 @@ Process:
 * copy MySQL table to Drupal database
 * Table Wizard to expose foreign table to Views
 * Migrate: map foreign table to content type (need Migrate Extras for CCK)
+* Rules: set node title after saving node
 
 TODO (another post?):
 
