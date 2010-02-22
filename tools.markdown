@@ -28,6 +28,7 @@ I'm starting to acquire and move between a few different computers, so here I am
 
 * [Bean](http://www.bean-osx.com/Bean.html) a small, fast word processor
 * [NeoOffice](http://www.neooffice.org/) clone of OpenOffice.org for the Mac
+* [Notational Velocity](http://notational.net/) small, fast note-taking application (Mac-only), synchronises with [Simplenote](http://simplenoteapp.com/) (iPhone/iPod, web)
 * [Scrivener](http://www.literatureandlatte.com/scrivener.html) for organising writing and research
 
 ## Web browsers
