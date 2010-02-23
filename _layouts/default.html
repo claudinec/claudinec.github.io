@@ -1,27 +1,11 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{{ page.title }} | Claudine Chionh</title>
-    <link href="/claudine.css" rel="stylesheet" type="text/css">
-    <link href="/atom.xml" rel="alternate" type="application/atom+xml">
-  </head>
 
-  <body>
-    <h1>{{ page.title }} | Claudine Chionh</h1>
+    {% include header.html %}
 
     {{ content }}
-
-    <p class="small">
-    	<a href="/">current</a> &middot;
-    	<a href="/about.html">about</a> &middot;
-    	<a href="/presentations.html">presentations</a> &middot;
-    	<a href="/blog.html">blog</a> &middot;
-    	<a href="http://identi.ca/claudinec">identi.ca</a> &middot;
-    	<a href="http://au.linkedin.com/in/claudinec">linkedin</a> &middot;
-    	<a href="http://www.facebook.com/claudine.chionh">facebook</a> &middot;
-    	<a href="http://www.flickr.com/photos/claudine/">flickr</a> &middot;
-    	<a href="/famhist.html">family history<a/>
-    </p>
+    
+    {% include footer.html %}
 
   </body>
 </html>
