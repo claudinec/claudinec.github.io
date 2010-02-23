@@ -6,7 +6,7 @@ title: Liturgical resources
 # Daily Office: online texts
 
 * [Celebrating Common Prayer](http://www.oremus.org/liturgy/ccp/) (Society of St Francis)
-* [Common Worship](http://www.cofe.anglican.org/worship/liturgy/commonworship/texts/) (Church of England)
+* [Common Worship](http://www.cofe.anglican.org/worship/liturgy/commonworship/texts/) (Church of England) -- view online in HTML, or download in PDF and RTF format
 * [Universalis](http://www.universalis.com/) (Catholic)
 
 # Lectionaries
