@@ -9,7 +9,11 @@ title: Liturgical resources
 * [Common Worship](http://www.cofe.anglican.org/worship/liturgy/commonworship/texts/) (Church of England)
 * [Universalis](http://www.universalis.com/) (Catholic)
 
-# Calendar of saints and commemorations
+# Lectionaries
+
+* [Revised Common Lectionary](http://lectionary.library.vanderbilt.edu/)
+
+# Saints and commemorations
 
 * [Exciting Holiness](http://www.excitingholiness.org/first-edition/), first edition (Church of England)
 * [James Kiefer's Hagiographies](http://elvis.rowan.edu/~kilroy/JEK/home.html) (Episcopalian)
