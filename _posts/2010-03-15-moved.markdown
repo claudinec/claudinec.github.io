@@ -1,0 +1,6 @@
+---
+layout: default
+title: Moved
+---
+
+This blog has moved to [One fewer car](http://www.onefewercar.net/).
