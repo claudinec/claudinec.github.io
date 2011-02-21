@@ -1,5 +1,5 @@
 body {
-  font-family: Georgia, Palatino, 'Liberation Serif', serif;
+    font-family: 'DejaVu Serif', Georgia, serif;
 }
 
 blockquote {
@@ -12,28 +12,30 @@ h1, h2, h3 {
 }
 
 img {
-  border: 0px;
-  border-style: none;
+    border: 0px;
+    border-style: none;
 }
 
 #main {
-  float: left;
-  width: 84%;
+    float: left;
+    width: 84%;
 }
 
 #side {
-  float: left;
-  margin-top: 5%;
-  padding: 2%;
-  width: 12%;
-  font-style: italic;
-  font-size: smaller;
+    float: left;
+    margin-top: 5%;
+    padding: 2%;
+    width: 12%;
+    font-style: italic;
+    font-size: smaller;
 }
 
-#bottom {clear: both}
+#bottom {
+    clear: both
+}
 
 .small {
-  font-style: italic;
-  font-size: smaller;
-  text-align: right;
+    font-style: italic;
+    font-size: smaller;
+    text-align: right;
 }
