@@ -1,17 +1,17 @@
-BODY {
+body {
   font-family: Georgia, Palatino, 'Liberation Serif', serif;
 }
 
-BLOCKQUOTE {
+blockquote {
     font-family: 'Liberation Mono', monospace;
     font-size: smaller;
 }
 
-H1, H2, H3 {
-    color: maroon;
+h1, h2, h3 {
+    color: green;
 }
 
-IMG {
+img {
   border: 0px;
   border-style: none;
 }
