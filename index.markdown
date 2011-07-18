@@ -3,9 +3,7 @@ layout: default
 title: Current projects
 ---
 
-[__WikiShepp__](http://www.wikishepp.net.au/) is a collaborative local history project for the Goulburn Valley, built with MediaWiki.
-
-[__Founders and Survivors__](http://www.foundersandsurvivors.org/) aims to document the lives of convicts transported to Van Diemen's Land, and their families. The public website, built with Drupal, provides an interface to archival transcriptions and a means of collecting genealogical data submitted by family historians.
+[__Founders and Survivors__](http://foundersandsurvivors.org/) aims to document the lives of convicts transported to Van Diemen's Land, and their families. The public website, built with Drupal, provides an interface to archival transcriptions and a means of collecting genealogical data submitted by family historians.
 
 [__Friends of Same__](http://friendsofsame.org/) is a
 partnership between the town of Same, Manufahi, Timor-Leste and the
