@@ -1,39 +1,41 @@
-BODY {
-  font-family: Garamond, Palatino, 'Liberation Serif', serif;
+body {
+    font-family: 'DejaVu Serif', Georgia, serif;
 }
 
-BLOCKQUOTE {
+blockquote {
     font-family: 'Liberation Mono', monospace;
     font-size: smaller;
 }
 
-H1, H2, H3 {
-    color: maroon;
+h1, h2, h3 {
+    color: green;
 }
 
-IMG {
-  border: 0px;
-  border-style: none;
+img {
+    border: 0px;
+    border-style: none;
 }
 
 #main {
-  float: left;
-  width: 84%;
+    float: left;
+    width: 84%;
 }
 
 #side {
-  float: left;
-  margin-top: 5%;
-  padding: 2%;
-  width: 12%;
-  font-style: italic;
-  font-size: smaller;
+    float: left;
+    margin-top: 5%;
+    padding: 2%;
+    width: 12%;
+    font-style: italic;
+    font-size: smaller;
 }
 
-#bottom {clear: both}
+#bottom {
+    clear: both
+}
 
 .small {
-  font-style: italic;
-  font-size: smaller;
-  text-align: right;
+    font-style: italic;
+    font-size: smaller;
+    text-align: right;
 }
