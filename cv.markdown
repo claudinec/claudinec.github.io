@@ -32,15 +32,13 @@ I designed, developed and continue the Drupal front-end for this project, and pr
 
 # Organisations
 
-Anglican Diocese of Melbourne: EAC, SRC
+Anglican Diocese of Melbourne: Ecumenical Affairs Committee.
 
-Victorian Council of Churches
-
-# Volunteer
-
-Friends of Same
+Victorian Council of Churches: Executive Committee Member.
 
 # Skills
 
-Drupal
-Perl
+- Drupal
+- Perl
+- MySQL
+- Mac OS X
