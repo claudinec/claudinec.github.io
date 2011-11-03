@@ -23,7 +23,7 @@ _2008 to present_
 
 I am primarily employed as a web developer on the Founders and Survivors project. I have also tutored in medical humanities subjects in the Centre for Health and Society.
 
-## UFT
+## United Faculty of Theology
 
 _2010 to present_
 
