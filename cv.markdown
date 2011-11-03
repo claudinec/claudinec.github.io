@@ -1,3 +1,8 @@
+---
+layout: default
+title: Curriculim Vitæ
+---
+
 # Summary
 
 Web/Drupal developer with interest and experience in higher education and humanities research.
@@ -14,17 +19,23 @@ Church history, ecclesiology, feminist and queer theologies.
 
 ## University of Melbourne
 
-(Remove job title?)
+_2008 to present_
 
 I am primarily employed as a web developer on the Founders and Survivors project. I have also tutored in medical humanities subjects in the Centre for Health and Society.
 
 ## UFT
+
+_2010 to present_
+
+<http://www.uft.edu.au/>
 
 I inherited the first version of the UFT's Drupal website and have managed it since 2010. I have developed the online course handbook and timetable, which are reviewed annually, and assist in ongoing content editing (and maintenance).
 
 # Projects
 
 ## Founders and Survivors
+
+<http://foundersandsurvivors.org/>
 
 Founders and Survivors: Australian Lifecourses in Historical Context is an ARC-funded project which follows the lives of Australian families from the convict transportation period to the First World War. 
 
