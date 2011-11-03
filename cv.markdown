@@ -43,7 +43,7 @@ I designed, developed and continue the Drupal front-end for this project, and pr
 
 # Organisations
 
-Anglican Diocese of Melbourne: Ecumenical Affairs Committee.
+Anglican Diocese of Melbourne: Ecumenical Affairs Committee Member.
 
 Victorian Council of Churches: Executive Committee Member.
 
