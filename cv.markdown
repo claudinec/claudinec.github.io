@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculim Vitæ
+title: Curriculim Vitae
 ---
 
 # Summary
