@@ -53,3 +53,21 @@ Victorian Council of Churches: Executive Committee Member.
 - Perl
 - MySQL
 - Mac OS X
+
+# Education
+
+## Melbourne College of Divinity
+
+_Master of Divinity, 2007-2012_
+
+## University of Melbourne
+
+_Master of Public Health, 2004-2007_
+
+Social Health (Health ethics, Medical anthropology).
+
+## University of Melbourne
+
+_Bachelor of Arts, 1994-1998_
+
+History.
