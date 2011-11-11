@@ -43,13 +43,8 @@ I designed, developed and continue the Drupal front-end for this project, and pr
 
 # Volunteer
 
-## Faith and Unity Commission, National Council of Churches in Australia
-
-_Minutes secretary, 2011 to present_
-
-## Theological Students' Association, United Faculty of Theology
-
-_President, 2009-2010_
+- Minutes secretary, Faith and Unity Commission, National Council of Churches in Australia, 2011 to present
+- President, Theological Students' Association, United Faculty of Theology, 2009-2010
 
 # Organisations
 
