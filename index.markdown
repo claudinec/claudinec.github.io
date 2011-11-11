@@ -55,7 +55,7 @@ I designed, developed and continue the Drupal front-end for this project, and pr
 - Social Questions Commission, Victorian Council of Churches, 2009-2010
 - Academic Board, United Faculty of Theology, Melbourne, 2009-2010
 - Victorian Area Council, Australian Student Christian Movement, 2000-2009
-- Commission on Living Faiths and Community Relations, Victorian Council of Churches, 2000–2003
+- Commission on Living Faiths and Community Relations, Victorian Council of Churches, 2000-2003
 
 # Skills
 
