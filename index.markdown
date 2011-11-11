@@ -41,11 +41,26 @@ Founders and Survivors: Australian Lifecourses in Historical Context is an ARC-f
 
 I designed, developed and continue the Drupal front-end for this project, and provide technical support for volunteers and research collaborators. I also assist with integrating community-contributed data into a complex XML database.
 
+# Volunteer
+
+## Faith and Unity Commission, National Council of Churches in Australia
+
+_Minutes secretary, 2011 to present_
+
+## Theological Students' Association, United Faculty of Theology
+
+_President, 2009-2010_
+
 # Organisations
 
-Anglican Diocese of Melbourne: Ecumenical Affairs Committee Member.
-
-Victorian Council of Churches: Executive Committee Member.
+- Executive Committee, Victorian Council of Churches, 2010-present
+- Ecumenical Affairs Committee, Anglican Province of Victoria, 2010–present
+- Senatus, United Faculty of Theology, Melbourne, 2009–present
+- Social Responsibilities Committee, Anglican Diocese of Melbourne, 2006–present
+- Social Questions Commission, Victorian Council of Churches, 2009–2010
+- Academic Board, United Faculty of Theology, Melbourne, 2009–2010
+- Victorian Area Council, Australian Student Christian Movement, 2000–2009
+- Commission on Living Faiths and Community Relations, Victorian Council of Churches, 2000–2003
 
 # Skills
 
