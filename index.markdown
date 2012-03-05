@@ -29,7 +29,7 @@ _2010 to present_
 
 <http://www.uft.edu.au/>
 
-I inherited the first version of the UFT's Drupal website and have managed it since 2010. I have developed the online course handbook and timetable, which are reviewed annually, and assist in ongoing content editing (and maintenance).
+I inherited the first version of the UFT's Drupal website and have managed it since 2010. I have developed the online course handbook and timetable, which are reviewed annually, and assist in ongoing content editing.
 
 # Projects
 
@@ -37,7 +37,7 @@ I inherited the first version of the UFT's Drupal website and have managed it si
 
 <http://foundersandsurvivors.org/>
 
-Founders and Survivors: Australian Lifecourses in Historical Context is an ARC-funded project which follows the lives of Australian families from the convict transportation period to the First World War. 
+Founders and Survivors: Australian Lifecourses in Historical Context is an ARC-funded project which follows the lives of Australian families from the convict transportation period to the First World War.
 
 I designed, developed and continue the Drupal front-end for this project, and provide technical support for volunteers and research collaborators. I also assist with integrating community-contributed data into a complex XML database.
 
