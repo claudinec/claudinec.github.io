@@ -1,1 +1,1 @@
-Personal Github Pages at http://claudine.github.com/
+Personal Github Pages at http://claudinec.github.com/
