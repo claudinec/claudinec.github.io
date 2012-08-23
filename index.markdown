@@ -3,7 +3,7 @@ layout: default
 title: Web Development
 ---
 
-I build websites for small businesses and organisations, primarily using the Drupal content management system. I am also Lead Developer at [Moat Media](http://moatmedia.com.au/), where I am part of a web developmen team working on larger projects.
+I build websites for small businesses and organisations, primarily using the Drupal content management system. I am also Lead Developer at [Moat Media](http://moatmedia.com.au/), where I am part of a web development team working on larger projects.
 
 # Current Projects
 
