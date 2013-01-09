@@ -23,7 +23,7 @@ _2010 to present_
 
 I inherited the first version of the UFT's Drupal website and have managed it since 2010. I have developed the online course handbook and timetable, which are reviewed annually, and assist in ongoing content editing.
 
-# Past Projects
+# Recent Past Projects
 
 ## Founders and Survivors
 
