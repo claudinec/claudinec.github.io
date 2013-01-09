@@ -27,7 +27,7 @@ I inherited the first version of the UFT's Drupal website and have managed it si
 
 ## Founders and Survivors
 
-_2007 to 2012_
+_2008 to 2012_
 
 <http://foundersandsurvivors.org/>
 
