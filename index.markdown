@@ -10,14 +10,6 @@ working on larger projects.
 
 # Current Projects
 
-## Victorian Centre for Biostatistics
-
-_2012 to present_
-
-<http://vicbiostat.org.au/>
-
-I developed the website for this new research centre.
-
 ## United Faculty of Theology
 
 _2010 to present_
@@ -29,6 +21,14 @@ since 2010. I have developed the online course handbook and timetable, which
 are reviewed annually, and assist in ongoing content editing.
 
 # Recent Past Projects
+
+## Victorian Centre for Biostatistics
+
+_2012_
+
+<http://vicbiostat.org.au/>
+
+I developed the website for this new research centre.
 
 ## Founders and Survivors
 
