@@ -1,3 +1,3 @@
-Personal Github Pages at http://claudinec.github.com/ or
+Personal Github Pages at http://claudinec.github.io/ or
 http://webdev.claudinec.net/
 
