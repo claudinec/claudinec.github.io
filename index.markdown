@@ -22,14 +22,6 @@ are reviewed annually, and assist in ongoing content editing.
 
 # Recent Past Projects
 
-## Victorian Centre for Biostatistics
-
-_2012_
-
-<http://vicbiostat.org.au/>
-
-I developed the website for this new research centre.
-
 ## Founders and Survivors
 
 _2008 to 2012_
