@@ -7,6 +7,14 @@ I am a web developer who has specialised in Drupal development since 2008. Befor
 
 # Current Projects
 
+## A Wok on the Wild Side
+
+_2013 to present_
+
+<http://www.awokonthewildside.com/>
+
+(My mother) Ida Chionh's food and review blog ...
+
 ## United Faculty of Theology
 
 _2010 to present_
