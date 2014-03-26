@@ -3,12 +3,17 @@ layout: default
 title: Web Development
 ---
 
-I build websites for small businesses and organisations, primarily using the
-Drupal content management system. I am also Lead Developer at [Moat
-Media](http://moatmedia.com.au/), where I am part of a web development team
-working on larger projects.
+I am a web developer who has specialised in Drupal development since 2008. Before turning to web development professionally, I worked in the higher education and research sector, primarily in statistical data management and in public health and social science research. I am actively involved in the Drupal community in Melbourne, and encourage the use of free and open source software for web development.
 
 # Current Projects
+
+## A Wok on the Wild Side
+
+_2013 to present_
+
+<http://www.awokonthewildside.com/>
+
+(My mother) Ida Chionh's food and review blog ...
 
 ## United Faculty of Theology
 
@@ -22,21 +27,13 @@ are reviewed annually, and assist in ongoing content editing.
 
 # Recent Past Projects
 
-## Victorian Centre for Biostatistics
-
-_2012_
-
-<http://vicbiostat.org.au/>
-
-I developed the website for this new research centre.
-
 ## Founders and Survivors
 
 _2008 to 2012_
 
 <http://foundersandsurvivors.org/>
 
-Founders and Survivors: Australian Lifecourses in Historical Context is an
+**Founders and Survivors: Australian Lifecourses in Historical Context** is an
 ARC-funded project which follows the lives of Australian families from the
 convict transportation period to the First World War.
 
