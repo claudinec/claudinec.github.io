@@ -1,0 +1,57 @@
+BODY {
+    font-family: "DejaVu Serif", Palatino, serif;
+}
+
+H1, H2, H3, H4 {
+    font-family: "DejaVu Sans", Optima, sans-serif;
+    font-weight: bold;
+    color: green;
+}
+
+BLOCKQUOTE {
+    font-family: "DejaVu Sans Mono", monospace;
+    font-size: smaller;
+}
+
+IMG {
+    border: 0px;
+    border-style: none;
+}
+
+#main {
+    float: left;
+    width: 84%;
+}
+
+#side {
+    float: left;
+    margin-top: 5%;
+    padding: 2%;
+    width: 12%;
+    font-family: "DejaVu Sans Mono", monospace;
+    font-style: italic;
+    font-size: smaller;
+}
+
+#postamble {
+    border-top: thin dashed;
+    font-style: italic;
+    font-size: smaller;
+}
+
+.todo {
+    color: red;
+    font-weight: bold
+}
+
+.done {
+    color: green
+}
+
+.tag, .timestamp-kwd {
+    color: purple
+}
+
+.timestamp {
+    font-style: italic
+}
