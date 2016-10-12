@@ -1,9 +1,33 @@
 <!DOCTYPE html>
 <html>
 
-    {% include header.html %}
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Claudine Chionh" />
 
-    {{ content }}
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Claudine Chionh</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/claudinec">View on GitHub</a>
+
+          <h1 id="project_title">Claudine Chionh</h1>
+          <h2 id="project_tagline">Freelance Writer and Editor</h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+      {{ content }}
 
 	<div id="disqus_thread"></div><script type="text/javascript"
 	src="http://disqus.com/forums/claudine-github/embed.js"></script><noscript><a
@@ -32,8 +56,16 @@
 				})();
 	//]]>
 </script>
-    
-    {% include footer.html %}
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
 
   </body>
 </html>
