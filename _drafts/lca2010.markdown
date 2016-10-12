@@ -1,4 +1,0 @@
----
-layout: disqus
-title: Draft slides for LCA2010 presentation
----
