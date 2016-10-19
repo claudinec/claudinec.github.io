@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Claudine Chionh
+url:                 http://claudinec.github.io/
+baseurl:             ''
+# paginate:            5
+# gems:                [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Claudine Chionh
+  url:               http://claudinec.github.io/
+  email:             info@claudinec.net
+
+# Custom vars
+version:             1.0.0

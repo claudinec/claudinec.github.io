@@ -1,22 +1,43 @@
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
-*.pyc
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
 
-# Logs and databases #
-######################
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
 *.log
-
-# OS generated files #
-######################
-.DS_Store*
-ehthumbs.db
-Icon?
-Thumbs.db
+*.rej
+*.swo
 *.swp
+*.zip
+*.vi
+*~
 
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# Folders to ignore
+node_modules
+bower_components
+bin
