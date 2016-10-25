@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Claudine Chionh
 url:                 http://claudinec.github.io/
 baseurl:             ''
-# paginate:            5
-# gems:                [jekyll-paginate]
+paginate:            5
+gems:                [jekyll-paginate]
 
 # About/contact
 author:

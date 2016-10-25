@@ -18,6 +18,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -29,14 +30,16 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     minima (2.0.0)
+    mysql (2.9.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    rb-fsevent (0.9.7)
+    rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    sequel (4.39.0)
 
 PLATFORMS
   ruby
@@ -44,7 +47,10 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.3.0)
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   minima (~> 2.0)
+  mysql
+  sequel
 
 RUBY VERSION
    ruby 2.0.0p648

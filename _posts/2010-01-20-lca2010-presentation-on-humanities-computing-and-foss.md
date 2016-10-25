@@ -1,0 +1,12 @@
+---
+layout: post
+title: LCA2010 presentation on humanities computing and FOSS
+author: claudine
+nid: 42
+created: 1263945600
+---
+I just delivered my linux.conf.au presentation on [using free and open source software in collaborative humanities research](http://www.slideshare.net/claudinec/unlocking-the-ivory-tower-foss-in-collaborative-humanities-research). I have presented on this topic at smaller events, including LCA miniconferences last year, but this was my first presentation in LCA's main programme. I was more nervous than usual as this is such a prominent conference, and I made some of the speaking mistakes (speaking too quickly, going in circles) that I find embarrassing, but I think I did well enough for a first-time LCA speaker.
+
+One of the more entertaining and well-known speakers in the FOSS community was speaking at the same time, so it is not surprising that I did not have a huge audience, and I would have found a larger one more intimidating anyway. The audience was responsive and good questions were asked, so I think the presentation did its job.
+
+My biggest challenge in this talk was distilling into 35-40 minutes the work that I have been doing for the last two years, and the background principles and my own ruminations on the topic. I am scheduled to give a version of this talk to Linux Users of Victoria in later this year, and may also give a necessarily different version to a group of postgraduate history students. There is still a lot of work I want to do on becoming better acquainted with similar projects elsewhere, and reflecting on the principles of humanities computing. If I can maintain the energy, this would be a good opportunity to work on a series of articles, blog posts or presentations.
