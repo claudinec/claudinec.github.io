@@ -11,7 +11,7 @@ gems:                [jekyll-paginate]
 author:
   name:              Claudine Chionh
   url:               http://claudinec.github.io/
-  email:             info@claudinec.net
+  email:             cc@claudinec.net
 
 # Custom vars
 version:             1.0.0
