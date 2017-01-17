@@ -8,16 +8,16 @@ comments: true
   <span class="post-date">{{ page.date | date_to_string }}</span> {{ content }}
 </div>
 
+<!-- Disqus config -->
 {% if page.comments %}
-  /**
-  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-  /*
+  <div id="disqus_thread"></div>
+  <script>
+
   var disqus_config = function () {
   this.page.url = "https://claudinec.github.io";
   this.page.identifier = "claudine-github";
   };
-  */
+
   (function() { // DON'T EDIT BELOW THIS LINE
   var d = document, s = d.createElement('script');
   s.src = '//claudine-github.disqus.com/embed.js';
