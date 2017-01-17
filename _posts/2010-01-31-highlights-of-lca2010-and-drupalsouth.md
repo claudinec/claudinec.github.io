@@ -1,0 +1,44 @@
+---
+layout: post
+title: Highlights of LCA2010 and DrupalSouth
+author: claudine
+nid: 45
+created: 1264896000
+---
+I am still buzzing one week after my happiest linux.conf.au ever, which was followed by the immensely rewarding DrupalSouth; but I go back to work tomorrow, and while I'll be putting the fruits of the previous weeks to good use, this may be my last chance in a while to reflect on the highlights of the conferences and what they indicate to me about the current state of the free software community.
+
+And that is one of the key elements that I picked up this year... this _is_ a tightly bound and intricately networked community. I guess I did recognise this at previous LCAs, but on those occasions I still felt very much outside the community. I did participate in free software gatherings and had friends and supporters, but there was a sense of disconnection between this community and my day-to-day work and study. The gap has narrowed drastically now -- not just in reality, but in my perception of it -- so now I can say that I really belong to this community (even if I do sit in a somewhat unusual or eccentric corner of it).
+
+I've been telling my academic and church friends and acquaintances that I attended a conference, which might be misleading, because events like LCA are not exactly conferences as academics know them. They are run by volunteers, attended by people who contribute to free software as volunteers (even if some of them also get paid for this work), and the informal 'hallway track' and social events are at least as important as the formal programme. LCA reminds me that using and contributing to free software isn't just a job or hobby, it's not even 'just' a philosophy; for many people it is a way of life.
+
+(Church geeks can probably understand this... it's another area where both 'professionals' and 'amateurs' participate in intense, demanding, emotionally draining and rewarding activities that may not seem to bring any financial or material gain, and are difficult to explain or justify to people outside the community.)
+
+For me, the running highlight of LCA2010 (including the Linuxchix miniconference) and DrupalSouth[^prog] was meeting, hearing, socialising and hacking[^hack] with some of the women who have been contributing to the development of Linux and free software over the last ten years, _and_ raising a fuss about the place of women in this community. I first attended LCA in 2007, partly because, for the first time, a Linuxchix miniconference was part of the programme. That year, a psychological barrier was broken: 10% of attendees were women. That proportion has been steadily increasing, and an unofficial estimate for 2010 is 15% female attendance. (It was also a noticeably child- and family-friendly event.) This is still an unjustifiably male-dominated field, but to me it felt that we were no longer a _painful_ minority. We still need to work for greater equality and inclusion, but we also have many successes to celebrate.
+
+I was most inspired by meeting and hearing from: Liz Henry, who has been fighting this fight for years, and still maintains the rage while also radiating joy and compassion; and Angela Byron (webchick), whose enthusiasm for Drupal is infectious (which is just as well, as she is coordinating the upcoming Drupal 7 release). It was also great to meet (even if briefly) other women such as Emma Jane Hogbin and Selena Deckelmann, and to reconnect with other Australian Linuxchix.
+
+Particular highlights of the programme were:[^links]
+
+* Liz's talks on _Code of our own_ (i.e. why hacking is still a feminist issue) and on assistive technology (which brought home to me that hacking is ultimately not really about computers, it's about finding resourceful solutions to problems of any kind).
+
+* Seeing Angela demonstrate Drupal 7 twice, once in an LCA tutorial and again at DrupalSouth.
+
+* Emma Jane Hogbin's talk on version control, followed by Sara Falamaki's on happy hackers, underscored how much of a difference one's tools and working environment can make to one's creativity and efficiency. For the seven-odd years before I moved to my current job, I was forced to develop database and statistical analysis systems with proprietary software mandated by my employers. It has made a huge difference to be able to research and use the best tools for my job. A happy hacker can choose her own tools.
+
+Other good talks included Tim McNamara's timely presentation on the Sahana disaster management system being used in Haiti, and Paul Fenwick's geek standup comedy routine on the world's worst inventions.
+
+Ohter people's highlights that I missed include:
+
+* Angela's talk on getting your feet wet in contributing to free software, which would probably have been useful and timely for me, but as there were *seven* miniconfs running in parallel on both Monday and Tuesday, schedule clashes were inevitable -- on Monday I mostly attended the Linuxchix miniconf, but sometimes ducked out to attend talks on business and graphics.
+
+* The hackfest following the Linuxchix miniconf, to work on the <http://geekspeakr.com/> website. On Monday I was still hesitant about LCA burnout and was pacing myself, so I had a quiet dinner with a friend and an early night. I think I missed a great hackfest and might even have been able to contribute something, but five late nights in a row would have had other negative consequences.
+
+* I managed to miss *two* talks on documentation -- by Lana Brindley and Emma Jane Hogbin -- due to schedule clashes. The Friday after-lunch slot was particuarly galling as Emma Jane (documentation) was scheduled against Liz (assistive tech); I was not the only one who was annoyed about not being able to get to both. On the other hand, the fact that there were so many women giving such a diverse range of talks is something to celebrate.
+
+Our story continues on the Geek Feminism [wiki](http://geekfeminism.wikia.com/) and [blog](http://geekfeminism.org/).
+
+[^prog]: One followed immediately after the other, and quite a few of the speakers and attendees at DrupalSouth had been to LCA, so I'm mentally conflating the two.
+
+[^hack]: That is, 'doing interesting and creative things with technology', not 'breaking into other people's computers'.
+
+[^links]: It's late and I haven't put up links to individual abstracts. You can find them on the programmes for the [Linuxchix miniconf](http://haecksen.org.nz/node/272), [LCA2010 main programme](http://www.lca2010.org.nz/programme/schedule) and [DrupalSouth](http://wellington2010.drupalsouth.net.nz/schedule).

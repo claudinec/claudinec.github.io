@@ -1,15 +1,12 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-# relative_permalinks: true
 
 # Setup
 title:               Claudine Chionh
-url:                 http://claudinec.github.io/
-baseurl:             ''
-# paginate:            5
-# gems:                [jekyll-paginate]
+host:                127.0.0.1
+# baseurl:             ''
+paginate:            5
+gems:                [jekyll-paginate]
 
 # About/contact
 author:
