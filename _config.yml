@@ -1,10 +1,10 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:year/:month/:day/:slug.html
 
 # Setup
 title:               Claudine Chionh
-host:                127.0.0.1
-# baseurl:             ''
+# host:              127.0.0.1
+baseurl:             ""
 paginate:            5
 gems:                [jekyll-paginate]
 
