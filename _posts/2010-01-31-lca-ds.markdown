@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: Highlights of LCA2010 and DrupalSouth
 ---
 

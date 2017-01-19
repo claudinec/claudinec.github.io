@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: Wellington, New Zealand -- first impressions
 ---
 

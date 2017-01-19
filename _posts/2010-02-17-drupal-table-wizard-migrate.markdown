@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: Drupal is my database -- importing 80,000 convicts with Table Wizard and Migrate
 ---
 

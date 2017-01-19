@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: LCA2010 presentation on humanities computing and FOSS
 ---
 

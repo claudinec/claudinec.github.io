@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: DrupalSouth, Wellington, 23-24 January 2010
 ---
 
