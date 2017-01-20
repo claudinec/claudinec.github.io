@@ -9,7 +9,7 @@ title:               Claudine Chionh
 url:                 http://claudinec.github.io/
 baseurl:             ''
 # paginate:            5
-# gems:                [jekyll-paginate]
+gems:                [jekyll-import]
 
 # About/contact
 author:
