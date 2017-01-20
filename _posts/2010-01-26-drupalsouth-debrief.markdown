@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: DrupalSouth 2010 debrief, phase one
 ---
 

@@ -1,18 +1,18 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:year/:month/:day/:slug.html
 
 # Setup
 title:               Claudine Chionh
-host:                127.0.0.1
-# baseurl:             ''
+baseurl:             ""
+destination:         /keybase/public/claudinec
 paginate:            5
 gems:                [jekyll-paginate]
 
 # About/contact
 author:
   name:              Claudine Chionh
-  url:               http://claudinec.github.io/
-  email:             info@claudinec.net
+  url:               http://claudinec.net/
+  email:             cc@claudinec.net
 
 # Custom vars
 version:             1.0.0

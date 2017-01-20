@@ -1,5 +1,5 @@
 ---
-layout: disqus
+layout: post
 title: Refugee policy and 'The Indonesian solution'
 ---
 
