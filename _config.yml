@@ -5,6 +5,7 @@ permalink:           /:year/:month/:day/:slug.html
 title:               Claudine Chionh
 baseurl:             ""
 destination:         /keybase/public/claudinec
+incremental:         true
 paginate:            5
 gems:                [jekyll-paginate]
 
