@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           /:year/:month/:day/:slug.html
+permalink:           /:year/:month/:day/:slug/
 
 # Setup
 title:               Claudine Chionh
