@@ -14,7 +14,7 @@ comments: true
 
   var disqus_config = function () {
   this.page.url = "https://claudinec.github.io";
-  this.page.identifier = "claudine-github";
+  this.page.identifier = "{{ page.url | absolute_url }}";
   };
 
   (function() { // DON'T EDIT BELOW THIS LINE
@@ -26,6 +26,7 @@ comments: true
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
+<script id="dsq-count-scr" src="//claudine-github.disqus.com/count.js" async></script>
 
 <div class="related">
   <h2>Related Posts</h2>
@@ -42,5 +43,3 @@ comments: true
     {% endfor %}
   </ul>
 </div>
-
-<script id="dsq-count-scr" src="//claudine-github.disqus.com/count.js" async></script>
