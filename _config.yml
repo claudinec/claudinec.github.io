@@ -4,7 +4,7 @@ permalink:           /:year/:month/:day/:slug/
 # Setup
 title:               Claudine Chionh
 baseurl:             ""
-destination:         /keybase/public/claudinec
+# destination:         /keybase/public/claudinec
 incremental:         true
 paginate:            5
 gems:                [jekyll-paginate]
