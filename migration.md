@@ -8,3 +8,8 @@ Built in Perl:
 
 * [ikiwiki](http://ikiwiki.info/)
 * [dapper](http://markbenson.io/dapper/)
+
+Fork this website?
+
+1. (about|www).claudinec.net - simple static info site
+2. blog.claudinec.net - blog archive
